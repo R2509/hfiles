@@ -1,0 +1,28 @@
+/* A simple dark theme for https://man7.org */
+h1 {
+  color: #9fff9f;
+}
+h2 {
+  color: #f0cfcf;
+}
+body {
+	background-color: #1f1f1f;
+}
+span {
+	color: #ffffff;
+}
+pre {
+	color: #cfcfcf;
+}
+b {
+	color: #9f4fcf;
+}
+i {
+	color: #6fdfff;
+}
+input {
+	color: #efefef;background-color: #0f0f0f;
+}
+a {
+	color: #3fbfff;
+}
