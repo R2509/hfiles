@@ -1,0 +1,26 @@
+/* A simple dark theme for https://tldp.org */
+
+a:not(:hover) {
+    text-decoration: none;
+}
+body > a {
+    color: #ffffff;
+}
+h2 > a {
+  color: #f0cfcf;
+}
+h2:first-of-type > a {
+  color: #9fff9f;
+}
+body {
+	background-color: #1f1f1f;
+}
+p, li {
+	color: #cfcfcf;
+}
+a {
+	color: #3fbfff;
+}
+h3 {
+	color: #9f4fcf;
+}
